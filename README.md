@@ -1,2 +1,2 @@
 # Programming-project
-For Project Medica:
+For Project Medical
